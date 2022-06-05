@@ -10,3 +10,6 @@ Recording page.
 
 This is simple website but for a beginner this is best project.
 thank you.
+
+NOTE: open this website with windows screen zoom 75-80% .it will look perfectly nice.
+
